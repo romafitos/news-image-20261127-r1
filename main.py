@@ -179,7 +179,7 @@ INDEX = [
     (29, "S ASIA", "India U-19 women beat England by 36", "C"),
     (30, "S ASIA", "India v NZ 2nd Test begins today", "C"),
     (31, "OCEANIA", "Sinner out of Australian Open, knee", "R"),
-    (32, "N AMERICA", "Musk: yearly SpaceX share for US kids", "R"),
+    (32, "E ASIA", "China's drones reshape Asia's militaries", "R"),
     (33, "S ASIA", "Pakistan's 10th polio case of 2026", "R"),
     (34, "OCEANIA", "Australia braces for bushfire season", "R"),
     (35, "OCEANIA", "Sydney battles fire ant outbreak", "R"),
@@ -196,9 +196,9 @@ NUMBERS = [
 ]
 
 REGIONS = [
-    ("N AMERICA", 5, (29, 47, 77)), ("EUROPE", 8, (90, 60, 110)),
+    ("N AMERICA", 4, (29, 47, 77)), ("EUROPE", 8, (90, 60, 110)),
     ("AFRICA", 3, (60, 110, 60)), ("MIDDLE EAST", 4, (150, 100, 10)),
-    ("S ASIA", 7, (200, 90, 40)), ("E ASIA", 4, (40, 130, 130)),
+    ("S ASIA", 7, (200, 90, 40)), ("E ASIA", 5, (40, 130, 130)),
     ("OCEANIA", 4, (40, 110, 140)), ("GLOBAL", 1, (90, 86, 78)),
 ]
 
